@@ -1,0 +1,3 @@
+[submodule "gorust"]
+	path = gorust
+	url = https://github.com/EternityLabsAU/gorust
