@@ -1,3 +1,6 @@
 [submodule "gorust"]
 	path = gorust
 	url = https://github.com/EternityLabsAU/gorust
+[submodule "mvecops"]
+	path = mvecops
+	url = https://github.com/EternityLabsAU/mvecops
