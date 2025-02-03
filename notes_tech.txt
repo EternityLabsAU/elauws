@@ -1,0 +1,10 @@
+Physics
+ + Error treatment and data
+
+Materials
+ * Crystalline structure simulation pg54
+     - Bravais structure definitions
+
+Algebra
+ * Visualize function subvector space as a vectorial space itself pg220 (interesting, although it doesn't cover curriculum)
+ * Represent the whole kernel and linear transformation problem visualy

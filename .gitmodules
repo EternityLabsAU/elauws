@@ -4,3 +4,6 @@
 [submodule "mvecops"]
 	path = mvecops
 	url = https://github.com/EternityLabsAU/mvecops
+[submodule "uotech"]
+	path = uotech
+	url = https://github.com/ejrks/uotech
